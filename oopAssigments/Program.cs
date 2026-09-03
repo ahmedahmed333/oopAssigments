@@ -15,6 +15,15 @@
             // They support important OOP concepts such as inheritance, polymorphism, and encapsulation, which make the code more flexible, maintainable.
 
             #endregion
+
+            #region Question 2
+            // a- Shipment is the parent (base) class.
+            // b- ExpressShipment is the child class
+            // c- The TrackingCode property is inherited from the Shipment class
+            // d- Inheritance is better because: 
+            //    Code Reusability  Maintainability 
+            #endregion
+
         }
     }
 }
